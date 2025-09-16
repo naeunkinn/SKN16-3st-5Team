@@ -6,7 +6,7 @@ SKN 16기 3차 단위프로젝트
 <img src="https://i.namu.wiki/i/aJ8BIe4CcPyG7D1qKxbLzIOEwcNKP5RsCmb_POFJ-MbAInDE8dK0XvYVA-3ZvADJKJpey8LtqlhJNTOvrrGq8g.webp" width="170" height="170"> <img src="https://i.namu.wiki/i/VcDyzxOl21BA37mCQjUv5B3AeWmSyoWKHbTRfemqLkx3OY67uQdAfX_4F8r11Z21hAcT1ssgTouWQ8Z9vvlXHw.webp" width="170" height="170"> |
 |---|---|---|---|---|
 |차하경|황하영|정세현|문승현|김나은|
-|  |  |  |  |  ||
+| ㄴㅁ ㅁㄴㅊㅌ|ㅁㄴㅊ  | ㅊㄴㅁ |  ㄴㅁㅊ|  ㅊㅁㄴ||
 
 <br>
 
