@@ -1,4 +1,3 @@
-<img width="726" height="895" alt="image" src="https://github.com/user-attachments/assets/0f85db7d-5835-4a3e-bba7-98de306da340" /># SKN16-3st-5Team
 SKN 16기 3차 단위프로젝트
 
 ### 팀 소개
