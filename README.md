@@ -12,7 +12,7 @@ SKN 16기 3차 단위프로젝트
 
 ## 프로젝트 개요
 ### 주제 선정 배경
-|< img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feconomist.co.kr%2Farticle%2Fview%2Fecn202409190017&psig=AOvVaw0rfLX64D_xGT814j0O68sM&ust=1758094716505000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMif-6nj3I8DFQAAAAAdAAAAABAE"|
+|< img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feconomist.co.kr%2Farticle%2Fview%2Fecn202409190017&psig=AOvVaw0rfLX64D_xGT814j0O68sM&ust=1758094716505000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMif-6nj3I8DFQAAAAAdAAAAABAE">|
 |[이미지 출처](https://www.dailycc.net/news/articleView.html?idxno=519587)|[이미지 출처](https://www.joongang.co.kr/article/25208479)|
 
 반려동물 양육 인구 증가로 보험 수요가 확대되고 있으나, 낮은 가입률과 높은 손해율이 시장 성장을 제약하고 있습니다. 
