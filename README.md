@@ -2,8 +2,10 @@
 ## 😑 조
 ### 팀 소개
 
-<img src="https://i.namu.wiki/i/yBUlarXaiOUlHnIDDEAtvqGIn_gl9auAY0UB6kzsFd3hjLyUAe_le8z_rUI7DLVxJIp7jHThGGtpQJpGCHfkig.webp" width="155" height="165"> <img src="https://static.wikia.nocookie.net/kimetsu-no-yaiba-fan/images/4/41/Shinobu_anime_design.png/revision/latest?cb=20201006000955" width="155" height="200">  <img src="https://i.namu.wiki/i/HbTvNAaTQDJeZgmH8UyOgd9HF2bQ30jgy2gHhmOSqwNphDCS4g3Nw6MO3OTMi84jmwylrle1vpYzJi-xIvu8lg.webp" width="155" height="170"> <img src="https://i.namu.wiki/i/aJ8BIe4CcPyG7D1qKxbLzIOEwcNKP5RsCmb_POFJ-MbAInDE8dK0XvYVA-3ZvADJKJpey8LtqlhJNTOvrrGq8g.webp" width="155" height="170"> <img src="https://i.namu.wiki/i/VcDyzxOl21BA37mCQjUv5B3AeWmSyoWKHbTRfemqLkx3OY67uQdAfX_4F8r11Z21hAcT1ssgTouWQ8Z9vvlXHw.webp" width="170" height="170"> |
-
+|<img src="https://i.namu.wiki/i/yBUlarXaiOUlHnIDDEAtvqGIn_gl9auAY0UB6kzsFd3hjLyUAe_le8z_rUI7DLVxJIp7jHThGGtpQJpGCHfkig.webp" width="155" height="165"> | <img src="https://static.wikia.nocookie.net/kimetsu-no-yaiba-fan/images/4/41/Shinobu_anime_design.png/revision/latest?cb=20201006000955" width="155" height="200"> | <img src="https://i.namu.wiki/i/HbTvNAaTQDJeZgmH8UyOgd9HF2bQ30jgy2gHhmOSqwNphDCS4g3Nw6MO3OTMi84jmwylrle1vpYzJi-xIvu8lg.webp" width="155" height="170"> | <img src="https://i.namu.wiki/i/aJ8BIe4CcPyG7D1qKxbLzIOEwcNKP5RsCmb_POFJ-MbAInDE8dK0XvYVA-3ZvADJKJpey8LtqlhJNTOvrrGq8g.webp" width="155" height="170"> | <img src="https://i.namu.wiki/i/VcDyzxOl21BA37mCQjUv5B3AeWmSyoWKHbTRfemqLkx3OY67uQdAfX_4F8r11Z21hAcT1ssgTouWQ8Z9vvlXHw.webp" width="170" height="170"> |
+|---|---|---|---|---|
+|차하경|황하영|진세현|문승현|김나은|
+|프로젝트 기획, 초기 모델 테스트, 최종 보고서 작성, 발표|모델 실험, 머신러닝 성능 개선, 하이퍼파라미터 튜닝|피처 선정, 데이터 분석, 머신러닝 모델 시험|데이터 전처리 전략, 딥러닝 최적화, 하이퍼파라미터 튜닝|데이터 수집, 데이터 전처리, 초기 모델 테스트|
 
 <br>
 
