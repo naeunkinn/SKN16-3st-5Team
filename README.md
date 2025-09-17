@@ -1,4 +1,4 @@
-<img width="1307" height="225" alt="image" src="https://github.com/user-attachments/assets/5847ff0f-e5ab-4625-ba60-1394413183a8" /># SKN16-3nd-5Team
+# SKN16-3nd-5Team
 ## 😑 조
 ### 팀 소개
 
